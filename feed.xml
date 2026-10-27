@@ -6,6 +6,9 @@
   <language>en-us</language><itunes:author>AI Macro Nexus</itunes:author><itunes:block>yes</itunes:block>
   <itunes:explicit>false</itunes:explicit><itunes:image href="https://genkilad.github.io/nexus-cast-euwhh8r00v/cover.jpg"/><image><url>https://genkilad.github.io/nexus-cast-euwhh8r00v/cover.jpg</url><title>AI Macro Nexus Daily</title><link>https://genkilad.github.io/nexus-cast-euwhh8r00v/</link></image>
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+  <item><title>AI Macro Nexus Daily — 2026-10-28</title><description>Daily desk recap for 2026-10-28 (JST). Not investment advice.</description>
+   <enclosure url="https://genkilad.github.io/nexus-cast-euwhh8r00v/episodes/nexus-2026-10-28.mp3" length="11300354" type="audio/mpeg"/><guid isPermaLink="false">nexus-2026-10-28</guid>
+   <pubDate>Wed, 28 Oct 2026 07:00:00 +0900</pubDate><itunes:duration>00:18:50</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
   <item><title>AI Macro Nexus Daily — 2026-10-27</title><description>Daily desk recap for 2026-10-27 (JST). Not investment advice.</description>
    <enclosure url="https://genkilad.github.io/nexus-cast-euwhh8r00v/episodes/nexus-2026-10-27.mp3" length="9822085" type="audio/mpeg"/><guid isPermaLink="false">nexus-2026-10-27</guid>
    <pubDate>Tue, 27 Oct 2026 07:00:00 +0900</pubDate><itunes:duration>00:16:22</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
@@ -45,8 +48,5 @@
   <item><title>AI Macro Nexus Daily — 2026-10-15</title><description>Daily desk recap for 2026-10-15 (JST). Not investment advice.</description>
    <enclosure url="https://genkilad.github.io/nexus-cast-euwhh8r00v/episodes/nexus-2026-10-15.mp3" length="5915473" type="audio/mpeg"/><guid isPermaLink="false">nexus-2026-10-15</guid>
    <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate><itunes:duration>00:09:51</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
-  <item><title>AI Macro Nexus Daily — 2026-10-14</title><description>Daily desk recap for 2026-10-14 (JST). Not investment advice.</description>
-   <enclosure url="https://genkilad.github.io/nexus-cast-euwhh8r00v/episodes/nexus-2026-10-14.mp3" length="6167032" type="audio/mpeg"/><guid isPermaLink="false">nexus-2026-10-14</guid>
-   <pubDate>Wed, 14 Oct 2026 07:00:00 +0900</pubDate><itunes:duration>00:10:16</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
  </channel>
 </rss>
